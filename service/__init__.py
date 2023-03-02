@@ -9,7 +9,7 @@ from flask import Flask
 from service import config
 from service.common import log_handlers
 
-#imiport flask talisman
+# import flask talisman
 from flask_talisman import Talisman
 from flask_cors import CORS
 
